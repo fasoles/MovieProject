@@ -30,5 +30,6 @@ You can download the original data source here:[Movie Dataset Excel file](https:
 ### Data Cleaning
 Data loading and inspection.
 Handling errors and missing values.
-Data cleaning and formatting. The Excel file after the data cleaning and preparation process can be downloaded here: []([Movie Dataset HW - Copy.xlsx](https://github.com/user-attachments/files/34001948/Movie.Dataset.HW.-.Copy.xlsx)
+Data cleaning and formatting. The Excel file after the data cleaning and preparation process can be downloaded here:[Movie Dataset HW - Copy.xlsx](https://github.com/user-attachments/files/34001948/Movie.Dataset.HW.-.Copy.xlsx)
 
+### Dashboard
