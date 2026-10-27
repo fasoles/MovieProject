@@ -24,4 +24,9 @@ You can download the original data source here:[Movie Dataset Excel file](https:
 ### Tools
 - Power Query - I used Power Query to Clean Data
 - Excel - I used Excel for Data Analysis
-      - Pivot Tables - for Creating the Dashboards and Visualisation
+      - Pivot Tables - for Creating the Dashboards and Visualization
+
+### Data Cleaning
+Data loading and inspection.
+Handling errors and missing values.
+Data cleaning and formatting. The Excel file after the data cleaning and preparation process can be downloaded here:
