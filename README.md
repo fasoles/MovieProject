@@ -87,10 +87,28 @@ in
 
 ### Recommendations
 
-Top genres to produce movies that become profitable are Action, Comedy, Drama, Sci-Fi and Adventure
+Top genres to produce movies that bring the most in box office revenue are Action, Comedy, Drama, Sci-Fi and Adventure
 
-<img width="508" height="353" alt="Screenshot 2026-10-26 233715" src="https://github.com/user-attachments/assets/59f5b0a5-f981-4ed5-a183-fc1aca85824d" />
+<img width="161" height="59" alt="image" src="https://github.com/user-attachments/assets/743fa521-8cd2-4bca-9f42-5b2713655050" />
+
 
 Horror Movies produce the best ROI year over year
 
-I would recommend Netflix
+<img width="245" height="59" alt="image" src="https://github.com/user-attachments/assets/4dd2ea4b-4d43-4826-867a-de8e6e30fcfd" />
+
+Top 5 Performing actors are mentioned below along with box office revenue they produced
+
+<img width="200" height="59" alt="image" src="https://github.com/user-attachments/assets/a8ab30cc-fd2f-4d1b-a188-fc2cf1cd2f57" />
+
+Director Performance below showing directors that produced top 5 box office revenues
+
+<img width="162" height="61" alt="image" src="https://github.com/user-attachments/assets/c4c4de31-6bd8-43ea-8aa0-ba678786e876" />
+
+Seasonal patterns in how a movie performs: the best time to release a movie is May-July and March
+Movies that are released in those months bring the most revenue at the box office.
+
+<img width="142" height="94" alt="image" src="https://github.com/user-attachments/assets/17ce321a-ffa7-4cc2-81cf-dd4f959ea97b" />
+
+
+
+Based on the information analyzed about movies, actors, directors and genres from 2012 to 2016 the most profitable movie to produce next is a movie in a Horror genre, starring Jennifer Lawrence, Tom Cruise or Hugh Jackman, directed by Chris Renaud, Zack Snyder or Francis Lawrence and released in months of March, May, June or July
